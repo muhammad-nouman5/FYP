@@ -1,0 +1,26 @@
+body{
+  overflow-x: hidden;
+}
+.btn-sky{
+  background: rgba(0, 135, 250, 0.7);
+  border: 1px solid rgba(0, 135, 250, 1);
+  color: white;
+}
+.btn-sky:hover{
+	background: rgba(0, 135, 250, 1);
+	color: white;
+}
+h4.modal-title{
+	font-size: 33px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin-bottom: 20px;
+    text-align: center;
+    color: #FF5722;
+    outline: none;
+
+}
+.md-form{
+    border-top: none;
+}

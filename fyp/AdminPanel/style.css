@@ -1,0 +1,31 @@
+.side-bar{
+    position:fixed;
+    background: #000;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    width: 300px;
+}
+.main{
+    margin-left: 300px;
+}
+.body{
+    background: #19568f;
+}
+.bg-color{
+    background: #19568f;
+}
+.mobileordercolor{
+    background: linear-gradient(to left, blue, lightblue);
+    color: white;
+}
+.btn-opacity{
+    background-color: rgba(255, 255, 255, 0.274) !important;
+    color: white !important;
+}
+.mobilescolor{
+    background-color: #ecec28;
+}
+.width{
+    max-width: 3%;
+}

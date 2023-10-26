@@ -1,0 +1,261 @@
+.costom-row1{
+				background-image:url("img/bg.jpg");
+				background-size: 100%;
+				height:100%;
+				background-size: cover;
+				padding-top:50px;
+				padding-left:50px;
+				background-repeat:no-repeat;
+				background-attachment: fixed;
+			}
+			.costom-row1 ul{
+							list-style-type: none;
+							overflow: hidden;
+			}
+			.costom-row1 ul li{
+								display:inline;
+								float: left;
+								}
+
+			.costom-row1 ul li a{
+								font-size: 22px;
+								color:white;
+								padding:13px;                                       
+								text-decoration:none;
+							}
+			.costom-row1 h1{
+								font-size:60px;
+								color:white;
+								padding-top:160px;
+							}
+			.costom-row1 p{
+								padding-top: 20px;
+								color:white; 
+							}
+									#lgin{
+												
+												padding: 10px 30px 10px 30px;
+												color:white;
+												background-color:#d82a4e;
+												font-size:14px;
+												width: 150px;
+												
+												}
+.costom-row2{
+				padding: 50px;
+			}
+
+.costom-row3{
+				padding-top: 50px;
+				padding-bottom: 30px;
+				margin-bottom: 25px;
+			}
+			.costom-row3 div{
+								height: 50%;
+								background-color:#edf4f6;
+								margin:18px;
+								margin-bottom: 30px;
+								padding: 0px;
+								width: 30%;
+							}
+			.costom-row3 div h5{
+								padding: 20px;
+								}					
+			.costom-row3 p{
+								padding-left:15px;
+								}
+										
+							
+			.costom-row3 div span{
+									color:#d82a4e;
+									padding-left: 15px;
+								}
+					
+.costom-row4{
+				margin: 7px;
+				padding-top:20px;
+				margin-bottom: 50px;
+				background-color:#d82a4e;
+				height:310px;
+			}
+			.costom-row4 h1{
+							color: #ffffff;
+							font-size: 45px;
+							padding-bottom: 20px;
+							}
+			.costom-row4-sub{
+								margin-left: 80px;
+								background-color: #ffffff;
+								height: 52%;
+								padding:40px;
+								width: 85%;
+							}				
+			.costom-row4 input[type=text]
+							{
+								margin: 10px;
+								border:none;
+								padding: 15px 70px 15px 30px;
+								color:black;
+								font-size:14px;
+								background-color: #edf4f6;
+							}
+			.costom-row4 button	{
+									padding:15px 50px;
+									color:black;
+									border:none;
+									font-size:14px;
+									color:#ffffff;
+									background-color:#d82a4e;
+								}
+
+.costom-row6 ul{
+				padding:50px;
+				align-items:center;
+				}			
+			.costom-row6 ul li{
+								font-size: 20px;
+								display:inline;
+								padding:20px;
+							}		
+.costom-row7{
+				padding-top: 10px;
+				padding-bottom: 30px;
+			}
+			.costom-row7 div{
+								height: 70%;
+								background-color:#edf4f6;
+								padding: 0px;
+								margin-bottom: 30px;
+								width: 23%;
+								margin: 12px;
+							}				
+			.costom-row7 div h5{
+									padding: 15px;
+								}				
+			.costom-row7 div span{
+									color:#d82a4e;
+									padding-left: 15px;
+								}			
+			.costom-row7 div p{
+								padding-left: 15px;
+								}				
+.costom-row8{
+				min-height: 500px;
+				background-color:#3b3c41;
+				margin-top: 15px;
+			}
+			.costom-row8 h2{
+							padding-top: 50px;
+							color:white;
+							padding-left: 30px;
+			}
+			.costom-row8 p{
+								color:white;
+								padding-left: 40px;
+								padding-right: 40px;
+							}
+			.costom-row8-sub{
+								margin: 40px;
+								background-color: #ffffff;
+								padding: 20px;
+								height: 450px;
+								width: 450px;
+							}
+			.costom-row8 input[type=text]{
+											font-size: 13px;
+											color: black;
+											width: 90%;
+											padding: 15px;
+											padding-right: 12px; 
+											border: none;
+											background-color:#edf4f6;
+											margin: 15px;
+										}
+			.costom-row8 label{
+
+								background-color:black;
+								border: none;
+								width: 35%;
+								font-size:13px;
+								color:#ffffff;
+								margin: 15px;
+								padding: 15px;
+								}							
+			.costom-row8 button	{
+									background-color:#d82a4e;
+									border: none;
+									width: 40%;
+									font-size:13px;
+									color:black;
+									margin: 15px;
+									padding: 15px;
+								}
+.costom-row9{
+				padding-top: 90px;
+			}
+			 #a{
+												
+												padding-left: 40px;
+												padding-right: 40px;
+												padding-bottom: 10px;
+												padding-top: 10px;
+												color:white;
+												background-color:#d82a4e;
+												font-size:14px;
+											}
+				.costom-row9 hr{
+								margin-top: 80px;
+								padding-top: 1px;
+								background-color: #d82a4e;
+								margin-bottom: 50px;
+								}
+			}
+.costom-row10{
+				padding: 20px;        
+			}
+			.costom-row10 div {
+								margin: 15px;
+							}
+			.costom-row10 div ul{
+									padding-top: 20px;
+								}
+			.costom-row10 div ul a{
+									color:currentColor;
+									text-decoration: none;
+								}
+				.costom-row10 input[type=email]{
+												margin-top: 10px;
+												font-size: 13px;
+												border: none;
+												background-color:#edf4f6;
+												color: black;
+												width: 80%;
+												padding: 12px;
+												padding-right: 12px; 
+												}
+				.costom-row10 button{
+										font-size: 13px;
+										padding: 12px;
+										border: none;
+										background-color:#d82a4e;
+										color: #ffffff;
+										width: 50%; 
+										margin-top:20px;
+										margin-bottom: 20px;
+									}
+									.sub10 li{
+										text-decoration: none;
+										display: inline;
+										padding-bottom: 40px;
+									}
+.costom-row11{
+				margin-top: 40px;
+				background-color:#edf4f6;
+				height:50px;
+				padding-top:15px;
+			}
+.costom-row11 ul li{
+					display:inline;
+					padding:5px;
+					
+					}
